@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d94ecb64-70fd-4aeb-b3ee-8ef55f8e9eb5" name="Default Changelist" comment="" />
+    <list default="true" id="d94ecb64-70fd-4aeb-b3ee-8ef55f8e9eb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/expected.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/selectors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.3.test.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/@babel/register/.babel.7.12.3.test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/initial.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/smoke/initial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wdio.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/wdio.conf.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +20,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jyQjjjEH1EFECtBdliEDyS2SIk" />
   <component name="ProjectViewState">
@@ -26,6 +36,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\ProjectQA7\test\smoke" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +51,7 @@
       <updated>1604773991462</updated>
       <workItem from="1604773994803" duration="8223000" />
       <workItem from="1604789575989" duration="3874000" />
+      <workItem from="1604804625312" duration="12021000" />
     </task>
     <servers />
   </component>
